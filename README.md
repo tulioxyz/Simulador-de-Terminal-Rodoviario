@@ -22,7 +22,7 @@ A persistência de dados é feita em **arquivos binários**, permitindo salvar e
 
 ---
 
-## 📌 Futuras implementações
+## 📌 Futuras implementações desejadas
 - Uso de **banco de dados relacional** (MySQL ou PostgreSQL) no lugar de arquivos  
 - Melhor **organização do código** 
 - Interface mais amigável e menus mais intuitivos  

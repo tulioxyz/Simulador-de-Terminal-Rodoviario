@@ -33,6 +33,7 @@ A persistência de dados é feita em **arquivos binários**, permitindo salvar e
 ---
 
 ## 👨‍💻 Autor
-- Túlio Rodrigues Silva  
+- Túlio Rodrigues Silva
+- Kevin Silva Moreira
  
 

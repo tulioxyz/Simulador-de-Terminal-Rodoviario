@@ -88,4 +88,4 @@ Esses dados servem apenas como **base para testes acadêmicos** e não represent
 - Organização por **funções**, todas chamadas pela `main()`  
 - Persistência em **arquivos binários** (`motoristas.bin`, `viagens.bin`, `passagens.bin`)  
 
----
+---a
